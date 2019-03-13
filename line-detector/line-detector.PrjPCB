@@ -375,7 +375,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OOWUKNSG
+DocumentUniqueId=JFQVVTIC
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for line-detector\Design Rule Check - Main.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
